@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi Everyone 👋
 
-<!--
-**mhmtkarakas/mhmtkarakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m a Frontend Developer, especially interested in React.js
+- 🌱 I am working on projects using React and Javascript and also 
+      I want to advance my career in React and Javascript fields.
+      
+⭐️ HTML5
+⭐️ CSS3
+⭐️ JAVASCRIPT
+⭐️ REACT
+⭐️ REDUX
+⭐️ REDUX TOOLKIT
+⭐️ BOOTSTRAP
+⭐️ MATERIAL UI
+⭐️ SEMANTIC UI
+⭐️ TAILWIND
+⭐️ TYPESCRIPT
+⭐️ SASS-SCSS
+⭐🔜 REACT NATIVE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/123519806/original/21b422e6242d494f43b27499e7fc7bbf93adcbd2/fix-and-debug-html-css-javascript-reactjs-code.jpg)
+
+
+Have a nice day
+
