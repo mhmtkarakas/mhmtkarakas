@@ -5,7 +5,7 @@
 - 🌱  I am working on projects using React and Javascript and also 
        I want to advance my career in React and Javascript fields.
 - 🌍  I'm based in Diyarbakir/Turkey
-- ✉️  You can contact me at m.karakas32@gmail.com
+- ✉️  You can contact me at m.karakas32@gmail.com 05423317650
 - 🚀  I'm currently open for work as a Freelancer
 - 🧠  I'm learning javascript && React
 - 🤝  I'm open to collaborating on interesting projects and startups.
