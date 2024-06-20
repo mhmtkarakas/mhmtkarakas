@@ -59,7 +59,7 @@
       alt="bootstrap logo"
     />
   </td>
-</tr>
+
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -81,8 +81,8 @@
       alt="materialui logo"
     />
   </td>
-</tr>
-<tr>
+
+
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
