@@ -15,16 +15,97 @@
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
-
+<table>
+ <tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="30"
+      alt="javascript logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      height="30"
+      alt="typescript logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="30"
+      alt="react logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      height="30"
+      alt="html5 logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      height="30"
+      alt="css3 logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+      height="30"
+      alt="bootstrap logo"
+    />
+  </td>
+</tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      height="30"
+      alt="github logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      height="30"
+      alt="git logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+      height="30"
+      alt="materialui logo"
+    />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+      height="30"
+      alt="npm logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      height="30"
+      alt="redux logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      height="30"
+      alt="vscode logo"
+    />
+  </td>
+</tr>
+</table>
 
 <br/>
 <br/>
