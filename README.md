@@ -104,6 +104,13 @@
       alt="vscode logo"
     />
   </td>
+    <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      height="30"
+      alt="figma logo"
+    />
+  </td>
 </tr>
 </table>
 
